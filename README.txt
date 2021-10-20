@@ -1,6 +1,6 @@
 This is the book used for this Project # free e-book titled "Don Quixote", written by Miguel de Cervantes the_don_quixote = 'https://www.gutenberg.org/files/996/996-0.txt
 Condition is 	Text start: "I: ABOUT THIS TRANSLATION“ 
-							Text End: "End of the Project Gutenberg EBook of The History of Don Quixote, by Miguel de Cervantes"
+Text End: "End of the Project Gutenberg EBook of The History of Don Quixote, by Miguel de Cervantes"
 For this project we used libraries like
 nltk
 gutenburg
