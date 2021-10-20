@@ -1,0 +1,5 @@
+1. Number of is verbs: 16945
+2. Number of continuous number sequences: ['123', '345', '345']
+3. Most frequent number used: 23
+4. The number is used to tell the day of the month.
+5. It is an important day because on the 23rd of april 1616 England lost Shakespeare .
